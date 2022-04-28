@@ -74,13 +74,12 @@ body {
 .brand__img {
     width: 800px;
     height: 765px;
-    background-color: var(--pink-bkg);
+    margin: 0 92px 0 0;
 }
 
 .brand__title-wrp {
-    flex-grow: 0.5;
+    width: 702px;
     background-color: var(--pink-bkg);
-    padding: 0 0 0 92px;
     display: flex;
     align-items: center;
 }
